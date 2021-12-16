@@ -23,6 +23,6 @@
 ### What I Like
 
 - 🏀 Basketball
-- 💪 Work-out♂️
+- 💪 Work-out
 - 🎸 play Guitar
 - 🍺 Drink
