@@ -9,8 +9,9 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
 
 - 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🥇 I majored in Computer Engineering
+- 🚅 My hometown is Cheorwon, Gangwon-do in Korea
+- 🏢 Current residence is Songpa, Seoul in Korea
 
 ### Experience
 
@@ -25,4 +26,4 @@
 - 🏀 Basketball
 - 💪 Work-out
 - 🎸 play Guitar
-- 🍺 Drink
+- 💻 Coding
