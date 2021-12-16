@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`
 - 🥇 I majored in Computer Engineering
-- 🚅 My hometown is Cheorwon, Gangwon-do 
 - 🏢 Current residence is Songpa, Seoul
+**- 📧 Should you have any questions, please feel free to contact me anytime.**
 
 ### Experience
 
