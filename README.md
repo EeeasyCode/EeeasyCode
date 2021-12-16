@@ -15,7 +15,7 @@
 
 ### Experience
 
-- 🎓 Gachon University , Computer Engineering (2019.03~)
+- 🎓 Gachon Univercity , Computer Engineering (2019.03~)
 - 💂 3Division , Recon , guard-post (2020.08~2021.12)
 
 
