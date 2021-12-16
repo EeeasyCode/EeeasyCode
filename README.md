@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_2_c_m_) 
 [![Github-Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eeeasycode.github.io/)
 
-**📧 Should you have any questions, please feel free to contact me anytime.**
+**Should you have any questions, please feel free to contact me anytime.**
 
 ### Who Am I
 
