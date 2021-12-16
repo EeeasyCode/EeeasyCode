@@ -15,8 +15,8 @@
 
 ### Experience
 
-- 🎓 Gachon Univercity , Computer Engineering (2019.03~)
-- 💂 3Division , Recon , guard-post (2020.08~2021.12)
+- 🎓 Gachon Univercity, Computer Engineering (2019.03~)
+- 💂 Republic of Korea Army, 3Div, RECON(Guard Post) (2020.08~2021.12)
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EeeasyCode" height="165">
