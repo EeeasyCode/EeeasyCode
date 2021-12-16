@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @EeeasyCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# EasyCode 💻
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/EeeasyCode) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eeeasyCode@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_2_c_m_) 
+[![Github-Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eeeasycode.github.io/)
 
-<!---
-EeeasyCode/EeeasyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
+
+- 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`
+- 🥇 I majored in Economics
+- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+
+### Experience
+
+- 🎓 Gachon University , Computer Engineering (2019.03~)
+- 💂 3Division , Recon , guard-post (2020.08~2021.12)
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=EeeasyCode" height="165">
+
+### What I Like
+
+- 🏀 Basketball
+- 💪 Work-out♂️
+- 🎸 play Guitar
+- 🍺 Drink
