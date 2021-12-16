@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eeeasyCode@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_2_c_m_) 
 [![Github-Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eeeasycode.github.io/)
+**📧 Should you have any questions, please feel free to contact me anytime.**
 
 ### Who Am I
 
@@ -11,7 +12,6 @@
 - 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`
 - 🥇 I majored in Computer Engineering
 - 🏢 Current residence is Songpa, Seoul
-- **📧 Should you have any questions, please feel free to contact me anytime.**
 
 ### Experience
 
