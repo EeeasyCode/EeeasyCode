@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
 
-- 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`,`node-js`
+- 🌱 I’m currently learning `Data-structure`, `Algorithm`, `Python`, `node-js`
 - 🥇 I majored in Computer Engineering
 - 🏢 Current residence is Songpa, Seoul
 
