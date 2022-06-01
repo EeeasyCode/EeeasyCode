@@ -9,23 +9,16 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
 
-### Experience
+## ABOUT ME
+<hr>
 
 - 🎓 現) 가천대학교 컴퓨터공학과 재학
 - 💻 現) 스타트업 백엔드 개발
 - 🧑‍🔬 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
    
 ### Tech
-[![python](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png)]
-[![typescript](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png)]
 
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EeeasyCode" height="165">
 
-### What I Like
-
-- 🏀 Basketball
-- 💪 Work-out
-- 🎸 play Guitar
-- 💻 Coding
