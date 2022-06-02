@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eeeasyCode@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_2_c_m_) 
 
-**Should you have any questions, please feel free to contact me anytime.**
+<img src="https://img.shields.io/badge/#000000?style=for-the-badge&logo=notion&logoColor=black">
 
 
 
