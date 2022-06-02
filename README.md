@@ -1,10 +1,10 @@
 # EasyCode 💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Eeeasycode Yoon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Eeeasycode&fontSize=70" />
 </p>
 
-This is me <br>
+## This is me
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
