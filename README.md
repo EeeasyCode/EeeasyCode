@@ -18,11 +18,14 @@
 - 現) 스타트업 백엔드 개발
 - 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
    
-## favorite skills
+## 🔥 Favorite Skills 🔥
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★ <br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> ★★ <br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★ 
 
+## Using ETC.
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 ## ⚡️ Language ⚡️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&layout=compact)](https://github.com/eeeasycode)
