@@ -1,8 +1,6 @@
 # EasyCode 💻
 
-<p align="center">
-<img src:"(https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Eeeasy Code&fontSize=90)">
-</p>
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Eeeasycode's%20GitHub&fontSize=70&animation=scaleIn)
 
 ## This is me
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
