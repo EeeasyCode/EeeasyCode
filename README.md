@@ -8,12 +8,13 @@
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
+<br>
 
 ## ABOUT ME
 
-- 🎓 現) 가천대학교 컴퓨터공학과 재학
-- 💻 現) 스타트업 백엔드 개발
-- 🧑‍🔬 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
+- 現) 가천대학교 컴퓨터공학과 재학
+- 現) 스타트업 백엔드 개발
+- 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
    
 ### Skills
 
