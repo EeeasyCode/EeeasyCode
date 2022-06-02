@@ -1,6 +1,6 @@
 # EasyCode 💻
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Eeeasycode's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
 ## This is me
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
