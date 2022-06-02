@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
 ## This is me
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white" href="https://eeeasycode.notion.site/Eeaycode-bfcc15f67e5c44988cccd34820930fec">
+<a href="https://eeeasycode.notion.site/Eeaycode-bfcc15f67e5c44988cccd34820930fec"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
 
 
 
