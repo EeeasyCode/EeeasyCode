@@ -1,7 +1,7 @@
 # EasyCode 💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFFFFF&height=200&section=header&text=Eeeasycode&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Eeeasy Code&fontSize=90)
 </p>
 
 ## This is me
