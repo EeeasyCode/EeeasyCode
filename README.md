@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eeeasyCode@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_2_c_m_) 
 
-This is my notion 
+This is my notion <br>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
@@ -20,9 +20,9 @@ This is my notion
 ### Skills
 
 ### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eeeasycode)](https://github.com/깃허브아이디/github-readme-stats)
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=EeeasyCode" height="165">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=EeeasyCode" height="165">
 
