@@ -1,7 +1,7 @@
 # EasyCode 💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Eeeasycode&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=200&section=header&text=Eeeasycode&fontSize=70" />
 </p>
 
 ## This is me
@@ -19,9 +19,9 @@
 - 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
    
 ## favorite skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> ★★
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★ <br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> ★★ <br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★ 
 
 ## ⚡️ Language ⚡️
 
