@@ -31,8 +31,8 @@
 
 ## ⚡️ Language ⚡️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyternotebook&layout=compact)](https://github.com/eeeasycode)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyternotebook&layout=compact)](https://github.com/eeeasycode) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
