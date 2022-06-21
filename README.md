@@ -32,7 +32,7 @@
 ## ⚡️ Language ⚡️
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyternotebook&layout=compact)](https://github.com/eeeasycode) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
