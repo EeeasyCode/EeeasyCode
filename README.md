@@ -31,7 +31,7 @@
 
 ## ⚡️ Language ⚡️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=Jupyter%20Notebook&HTML&layout=compact&theme=tokyonight)](https://github.com/eeeasycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=Jupyter%20Notebook&hide=HTML&layout=compact&theme=tokyonight)](https://github.com/eeeasycode)
 
 
 
