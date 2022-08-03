@@ -8,7 +8,7 @@
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321)](https://solved.ac/ethan35321/)
+
 
 ## ABOUT ME
 
