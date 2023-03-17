@@ -11,18 +11,20 @@
 
 
 ## ABOUT ME
-
-- 現) 가천대학교 컴퓨터공학과 재학
-- 現) 가천대학교 정보보호 동아리 pay1oad
+- 現) 가천대학교 컴퓨터공학과 재학 (3학년 1학기 재학중)
 - 現) 대학생 정보보안 연합 동아리 SUA(SecurityPlus Union Academy)
-- 現) 22-2 경기 꿈의 대학 스마트 폰 앱 만들기 조교 
-- 現) 스타트업 백엔드 개발
-- 前) 가천대학교 정보보안 연구소 학부 연구생 (웹 취약점)
+- 現) 가천대학교 정보보안 연구소 학부 연구생
+- 現) 가천대학교 코딩 동아리 Code-In
+- 現) 가천대학교 아두이노 조교 
+- 前) 가천대학교 정보보호 동아리 pay1oad
+- 前) 22-2 경기 꿈의 대학 프로그래밍 조교 
+- 前) 스타트업 백엔드 개발자 (2022.02 ~ 2023.01)
+
    
 ## 🔥 Favorite Skills 🔥
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★ <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★★ <br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> ★★ <br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★ 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★★ 
 
 ## Using ETC.
 ### DB 
