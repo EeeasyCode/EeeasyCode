@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
 ## This is me
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasycode&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasycode&tag=github)](https://github.com/EeeasyCode/EeeasyCode)
 
 
 
