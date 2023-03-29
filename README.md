@@ -4,7 +4,7 @@
 
 ## This is me
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasycode&tag=github)](https://github.com/EeeasyCode/EeeasyCode)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasy-code)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
