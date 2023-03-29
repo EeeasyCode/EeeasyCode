@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
 ## This is me
-<a href="https://eeeasycode.notion.site/Eeaycode-bfcc15f67e5c44988cccd34820930fec"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasycode&tag=github)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
@@ -13,11 +13,8 @@
 ## ABOUT ME
 - 現) 가천대학교 컴퓨터공학과 재학 (3학년 1학기 재학중)
 - 現) 대학생 정보보안 연합 동아리 SUA(SecurityPlus Union Academy)
-- 現) 가천대학교 정보보안 연구소 학부 연구생
-- 現) 가천대학교 아두이노 조교 
-- 現) 가천대학교 코딩 동아리 Code-In
-- 前) 가천대학교 정보보호 동아리 pay1oad
-- 前) 22-2 경기 꿈의 대학 프로그래밍 조교 
+- 現) 가천대학교 CPSS 학부 연구생
+- 前) 가천대학교 정보보호 동아리 pay1oad 
 - 前) 스타트업 백엔드 개발자 (2022.02 ~ 2023.01)
 
    
