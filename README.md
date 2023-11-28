@@ -21,12 +21,6 @@
 ## Certifications
 ![cloud-practitioner 뱃지](https://github.com/EeeasyCode/EeeasyCode/assets/92606611/f9e215ba-8d2b-4163-ad0c-4811029b9f20)
 
-
-## 🔥 Favorite Skills 🔥
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★★ <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> ★★ <br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> ★★ 
-
 ## Using ETC.
 ### DB 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <br>
