@@ -19,7 +19,8 @@
 - 前) 스타트업 백엔드 개발자 (2022.02 ~ 2023.01)
 
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bce5d313-7ecb-4391-aa06-e98fc0991490" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bce5d313-7ecb-4391-aa06-e98fc0991490" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🔥 Favorite Skills 🔥
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> ★★★★ <br>
