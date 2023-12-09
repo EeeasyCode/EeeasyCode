@@ -5,7 +5,7 @@
 ## Tech-Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasy-code)](https://velog.io/@eeeasy-code)
-[![blog's GitHub stats](https://img.shields.io/badge?style=flat&logo=storyblok)](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail)](brunch.co.kr/@312b5fefb78e448)
+
 
 
 
