@@ -28,7 +28,7 @@
 
 ## ⚡️ Language ⚡️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=HTML,css,EJS&layout=compact&theme=tokyonight)](https://github.com/eeeasycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=HTML,css,EJS,javascript&layout=compact&theme=tokyonight)](https://github.com/eeeasycode)
 
 
 
