@@ -6,10 +6,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasy-code)](https://velog.io/@eeeasy-code)
 
-
-
-
-
+<br>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethan35321">
 
 
