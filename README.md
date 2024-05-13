@@ -29,8 +29,6 @@
 - 前) 가천대학교 정보보호 동아리 pay1oad 
 - 前) 아온스튜디오 백엔드 개발자 (2022.02 ~ 2023.01)
 
-## Certifications
-![cloud-practitioner 뱃지](https://github.com/EeeasyCode/EeeasyCode/assets/92606611/f9e215ba-8d2b-4163-ad0c-4811029b9f20)
 
 
 ## ⚡️ Language ⚡️
