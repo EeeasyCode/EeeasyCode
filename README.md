@@ -38,9 +38,9 @@
     </td>
     <td>
       <ul>
-        <span style="font-weight: bold;">[Framework]</span> <br> NestJS, SpringBoot</li>
+        <Strong> [Framework] </Strong> <br> NestJS, SpringBoot
         <br><br>
-        <span style="font-weight: bold;">[Language]</span> <br> TypeScript, Kotlin</li>
+        <Strong> [Language] </Strong> <br> TypeScript, Kotlin
       </ul>
     </td>
   </tr>
