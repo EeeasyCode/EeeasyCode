@@ -38,9 +38,9 @@
     </td>
     <td>
       <ul>
-        <Strong> [Framework] </Strong> <br> NestJS, SpringBoot
+        <Strong> [Framework] </Strong> <br> <img alt="Css" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
         <br><br>
-        <Strong> [Language] </Strong> <br> TypeScript, Kotlin
+        <Strong> [Language] </Strong> <br> <img alt="Css" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
       </ul>
     </td>
   </tr>
