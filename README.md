@@ -2,9 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
-## Tech-Blog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eeeasy-code)](https://velog.io/@eeeasy-code)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/창민-이-5300842a6/)](https://www.linkedin.com/in/yourprofile/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/EeeasyCode)
+[![Brunch](https://img.shields.io/badge/-Brunch-black?style=flat-square&logo=brunch&logoColor=white&link=https://brunch.co.kr/@@312b5fefb78e448)](https://brunch.co.kr/@@312b5fefb78e448)
+[![GitHub Blog](https://img.shields.io/badge/-GitHub%20Blog-181717?style=flat-square&logo=github&logoColor=white&link=https://yourusername.github.io/)](https://EeeasyCode.github.io/)
 
 ## ABOUT ME
 
