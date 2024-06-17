@@ -37,7 +37,7 @@
   <tr>
     <td>
       <a href="https://github.com/eeeasycode">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=HTML,css,EJS,Python,javascript,c++&layout=compact&theme=tokyonight" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeasycode&hide=HTML,css,EJS,Python,javascript,C++&layout=compact&theme=tokyonight" alt="Top Langs" />
       </a>
     </td>
     <td>
