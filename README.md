@@ -22,7 +22,8 @@
 - 🏢 **전) 아온스튜디오 백엔드 개발자** (2022.02 ~ 2022.12)
 
 ### Experience
-- 🔐 **현) 대학생 정보보안 연합 동아리 SUA(SecurityPlus Union Academy)**
+- 💻 **현) IT 연합동아리 YAPP 24기 백엔드 파트**
+- 🔐 **전) 대학생 정보보안 연합 동아리 SUA(SecurityPlus Union Academy)**
 - 💻 **전) 가천대학교 창업팀 Freenergy 서버 개발자**
 - 🏫 **전) 가천대학교 정보보안 연구실 학부 연구생**
 - 🛡️ **전) 가천대학교 정보보호 동아리 pay1oad**
