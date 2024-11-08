@@ -1,19 +1,17 @@
 <div align="center">
   <h2>About me</h2>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
-
-안녕하세요! 백엔드 개발자 이창민입니다. 
+안녕하세요! 백엔드 개발자 이창민입니다.
 
 스타트업에서 다양한 역할을 수행해왔으며, 현재 컴퓨터공학과 4학년 2학기에 재학중입니다.
 
-저는 새로운 기술을 배우고, 이를 프로젝트에 적용하여 실제 문제를 해결하는 것을 좋아합니다. 
+저는 새로운 기술을 배우고, 이를 프로젝트에 적용하여 실제 문제를 해결하는 것을 좋아합니다.
 
-다양한 경험을 기반으로 사람들과 지식 공유하는 것에 매력을 느끼고 있습니다. 
+다양한 경험을 기반으로 사람들과 지식 공유하는 것에 매력을 느끼고 있습니다.
 
 특히, **automation 기술**과 **cloud-native**에 관심이 많습니다.
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/창민-이-5300842a6/)](https://www.linkedin.com/in/창민-이-5300842a6/)
 [![Brunch](https://img.shields.io/badge/-Brunch-black?style=flat-square&logo=brunch&logoColor=white&link=https://brunch.co.kr/@@312b5fefb78e448)](https://brunch.co.kr/@312b5fefb78e448)
@@ -90,6 +88,12 @@
       <th>Activity name</th>
       <th>Role</th>
       <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.susc.kr/univ/gcu/">SUSC</a></td>
+      <td>University Student Union Community</td>
+      <td>SUSC GCU Ambassador</td>
+      <td>2024.10 ~ now</td>
     </tr>
     <tr>
       <td><a href="https://zdnet.co.kr/view/?no=20241003105916">AhnLab (안랩)</a></td>
@@ -228,6 +232,3 @@
   </tr>
 </table>
 </div>
-
-
- 
