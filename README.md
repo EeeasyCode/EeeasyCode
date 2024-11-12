@@ -144,6 +144,18 @@
       <th>When</th>
     </tr> 
     <tr>
+      <td><a href="https://github.com/nestjs/nest/pull/14126">NestJS</a></td>
+      <td>Contribution</td>
+      <td>Type narrowing context parameter on createParamDecorator's callback</td>
+      <td>2024.11</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nestjs/nest/pull/14129">NestJS</a></td>
+      <td>Contribution</td>
+      <td>Fix rabbitmq bindings and auto-generated queues</td>
+      <td>2024.11</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/toss/nestjs-aop/pull/35">Toss-AOP</a></td>
       <td>Contribution</td>
       <td>Translate Docs into Korean</td>
