@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EeeasyCode&fontSize=70)
 
-안녕하세요! 백엔드 개발자 이창민입니다.
+안녕하세요! 매일 1%씩 성장해 1년 3700% 차이를 만들기 위해 노력하는 개발자, 이창민입니다.
 
 스타트업에서 다양한 역할을 수행해왔으며, 현재 컴퓨터공학과 4학년 2학기에 재학중입니다.
 
