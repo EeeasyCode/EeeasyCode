@@ -31,6 +31,12 @@
       <th>Period</th>
     </tr> 
     <tr>
+      <td><a href="https://www.flarelane.co.kr/">플레어랩스</a></td>
+      <td>Backend Engineer</td>
+      <td>NestJS, AWS, Docker, Serverless, ElasticSearch</td>
+      <td>2025.01 ~ now</td>
+    </tr>
+    <tr>
       <td><a href="https://wclub.co.kr/">더블유클럽</a></td>
       <td>Backend Engineer</td>
       <td>NestJS, AWS, Docker, Serverless Framework</td>
@@ -59,13 +65,13 @@
       <td>Backend & Architect</td>
       <td><a href="https://github.com/TEAM-YOAJUNG">Gachdong</a></td>
       <td>Spring, MSA, k8s(GKE), ArgoCD, Terraform</td>
-      <td>2024.09 ~ now</td>
+      <td>2024.09 ~ 2024.12</td>
     </tr>
     <tr>
       <td>FullStack Developer</td>
       <td><s>증명서 발급 자동화</s></td>
       <td>NestJS, EJS, Automation</td>
-      <td>2024.07 ~ now</td>
+      <td>2024.07 ~ 2024.08</td>
     </tr>
     <tr>
       <td>NodeJS Developer</td>
@@ -99,7 +105,7 @@
       <td><a href="https://zdnet.co.kr/view/?no=20241003105916">AhnLab (안랩)</a></td>
       <td> 스마트 코드 크리에이터 교실</td>
       <td>Volunteer</td>
-      <td>2024.10 ~ now</td>
+      <td>2024.10 ~ 2024.12</td>
     </tr>
     <tr>
       <td><a href="https://geultto.github.io/blog/geultto-summary/">geultto (글또)</a></td>
