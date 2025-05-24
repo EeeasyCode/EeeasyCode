@@ -96,10 +96,16 @@
       <th>Period</th>
     </tr>
     <tr>
+      <td><a href="https://www.cloudclub.kr/">Cloud Club</a></td>
+      <td>IT Developers Club</td>
+      <td>7th member</td>
+      <td>2025.04 ~ now</td>
+    </tr>
+    <tr>
       <td><a href="https://www.susc.kr/univ/gcu/">SUSC</a></td>
       <td>University Student Union Community</td>
       <td>SUSC GCU Ambassador</td>
-      <td>2024.10 ~ now</td>
+      <td>2024.10 ~ 2024.12</td>
     </tr>
     <tr>
       <td><a href="https://zdnet.co.kr/view/?no=20241003105916">AhnLab (안랩)</a></td>
