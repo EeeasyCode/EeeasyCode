@@ -68,12 +68,6 @@
       <td>2024.09 ~ 2024.12</td>
     </tr>
     <tr>
-      <td>FullStack Developer</td>
-      <td><s>증명서 발급 자동화</s></td>
-      <td>NestJS, EJS, Automation</td>
-      <td>2024.07 ~ 2024.08</td>
-    </tr>
-    <tr>
       <td>NodeJS Developer</td>
       <td><a href="https://www.yapp.co.kr/project/24th/inspo_mail_club">InspoMailClub</a></td>
       <td>Automation, MSA, NestJS, Terraform</td>
