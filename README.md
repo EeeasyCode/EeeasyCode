@@ -117,7 +117,7 @@
       <td><a href="https://gdg.community.dev/gdg-on-campus-gachon-university-seongnam-south-korea/">Google</a></td>
       <td>GDG on Gachon</td>
       <td>Organizer</td>
-      <td>2024.09 ~ now</td>
+      <td>2024.09 ~ 2025.06</td>
     </tr>
     <tr>
       <td><a href="https://www.yapp.co.kr/project/24th/inspo_mail_club">YAPP</a></td>
