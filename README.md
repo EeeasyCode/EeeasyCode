@@ -168,7 +168,13 @@
       <td>2024.07</td>
     </tr>
     <tr>
-      <td><a href="https://kiisc.or.kr/bbs/pe/article/2999">한국정보보호학회</a></td>
+      <td><a href="https://github.com/user-attachments/files/21333673/IoT.pdf">한국정보보호학회 추계학술대회</a></td>
+      <td>Submit to an academic journal</td>
+      <td>Writing a paper on Presentation of vulnerability classification system for home IoT devices/td>
+      <td>2023.09</td>
+    </tr>
+    <tr>
+      <td><a href="https://kiisc.or.kr/bbs/pe/article/2999">한국정보보호학회 하계학술대회</a></td>
       <td>Submit to an academic journal</td>
       <td>Writing a paper on analysis of domestic and foreign bugbounties</td>
       <td>2023.06</td>
