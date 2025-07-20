@@ -93,7 +93,7 @@
       <td><a href="https://www.cloudclub.kr/">Cloud Club</a></td>
       <td>IT Developers Club</td>
       <td>7th member</td>
-      <td>2025.04 ~ now</td>
+      <td>2025.04 ~ 2025.07</td>
     </tr>
     <tr>
       <td><a href="https://www.susc.kr/univ/gcu/">SUSC</a></td>
