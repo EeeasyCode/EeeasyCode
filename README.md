@@ -62,6 +62,12 @@
       <th>Period</th>
     </tr>
     <tr>
+      <th>FullStack Developer</th>
+      <td><a href="https://www.linktrace.cloud/">Link-trace</a></td>
+      <td>NestJS, AWS Lambda, dynamoDB, API Gateway, nextjs</td>
+      <td>2025.07 ~ current</td>
+    </tr>
+    <tr>
       <td>Backend & Architect</td>
       <td><a href="https://github.com/TEAM-YOAJUNG">Gachdong</a></td>
       <td>Spring, MSA, k8s(GKE), ArgoCD, Terraform</td>
