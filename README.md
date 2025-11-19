@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/창민-이-5300842a6/)](https://www.linkedin.com/in/창민-이-5300842a6/)
 [![Brunch](https://img.shields.io/badge/-Brunch-black?style=flat-square&logo=brunch&logoColor=white&link=https://brunch.co.kr/@@312b5fefb78e448)](https://brunch.co.kr/@312b5fefb78e448)
-[![GitHub Blog](https://img.shields.io/badge/-GitHub%20Blog-181717?style=flat-square&logo=github&logoColor=white&link=https://yourusername.github.io/)](https://EeeasyCode.github.io/)
+[![Tech Blog](https://img.shields.io/badge/-GitHub%20Blog-181717?style=flat-square&logo=github&logoColor=white&link=https://yourusername.github.io/)](https://eeeasycode.dev/)
 
 </div>
 
